@@ -1,0 +1,180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Inner",
+				"Innergrowth"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/css/custom.less",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/elements/footer.php",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/css/presets/defaults.less",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/left_sidebar.php",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/right_sidebar.php",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/css/build/footer.less",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/elements/header.php",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/css/build/blocks/image-slider.less",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/css/main.less",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/elements/footer_bottom.php",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/elements/header_top.php",
+		"/C/MAMP/htdocs/innergrowth/packages/cloneamental/themes/cloneamental/css/build/fonts/defaults.less",
+		"/C/Users/Jens/Desktop/InnerGrowth/innergrowtth/themes/innergrowth/page_theme.php",
+		"/C/Users/Jens/Desktop/InnerGrowth/innergrowtth/controller.php",
+		"/C/Users/Jens/Documents/CMSer/Concrete5/themes/innergrowth/elements/header_top.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/page_theme.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/controller.php",
+		"/C/MAMP/htdocs/jenschrchristensen/packages/cloneamental/themes/cloneamental/elements/header.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/elements/header.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/elements/footer.php",
+		"/C/Users/Jens/Desktop/igpackages/innergrowth/themes/innergrowth/page_theme.php",
+		"/C/Users/Jens/Desktop/igpackages/innergrowth/controller.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/default.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/left_sidebar.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/right_sidebar.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/full.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/default.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/elements/header.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/elements/header_top.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/elements/footer_bottom.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/elements/footer.php",
+		"/C/MAMP/htdocs/innergrowth/application/themes/ig2016/index.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/index.php",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/css/build/body.less",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/css/build/footer.less",
+		"/C/MAMP/htdocs/innergrowth/packages/innergrowth/themes/innergrowth/css/presets/defaults.less"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'Helvetica Neue', Helvetica, Arial, sans-serif",
+			"Titillium Web",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Droid Serif"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true
+}
